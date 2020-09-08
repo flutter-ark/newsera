@@ -21,7 +21,9 @@ e.g. `flutter build ios --release`.
 ___
 [<img src="./media/PlayStoreButton.gif">](./build/release/newsera.apk)
 ___
-[<img src="./media/appleStoreButton.gif">](./build/release/newsera.ipa)
+
+___
+[<img src="./media/appleStoreButton.png">](./build/release/newsera.ipa)
 ___
 
 ###NOTE: Check `build > release` folder for a prebuild `newsera.ipa` or `newsera.apk` file for testing purpose only if above link is not working.
