@@ -1,5 +1,7 @@
 # Newsera
 
+![alt text](./assets/images/splash_screen.png?raw=true)
+
 A Flutter App Project which uses NewsApi.org as of api resource.
 
 # Steps to download and run the project
@@ -10,6 +12,9 @@ A Flutter App Project which uses NewsApi.org as of api resource.
 
 
 # Build
+
+![alt text](./assets/images/home_screen.png?raw=true)
+
 1) Run the command from Root folder of the project `flutter build <android|ios> --<debug|profile|release>`.
 e.g. `flutter build ios --release`.
 
@@ -23,3 +28,16 @@ e.g. `flutter build ios --release`.
 # Future Enhancements on mind
 1) `DarkMode theme`.
 2) `Proper Theme` for `light mode` and `dark mode`
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
