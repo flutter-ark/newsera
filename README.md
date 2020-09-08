@@ -1,6 +1,6 @@
 # Newsera
 
-![alt text](./assets/images/splash_screen.png?raw=true)
+![alt text](./media/home_screen.png?raw=true)
 
 A Flutter App Project which uses NewsApi.org as of api resource.
 
@@ -13,11 +13,18 @@ A Flutter App Project which uses NewsApi.org as of api resource.
 
 # Build
 
-![alt text](./assets/images/home_screen.png?raw=true)
+![alt text](./media/splash_screen.png?raw=true)
 
-1) Run the command from Root folder of the project `flutter build <android|ios> --<debug|profile|release>`.
+1) Run the command from Root folder of the project `flutter build <apk|ios> --<debug|profile|release>`.
 e.g. `flutter build ios --release`.
 
+___
+[<img src="./media/PlayStoreButton.gif">](./build/release/newsera.apk)
+___
+[<img src="./media/appleStoreButton.gif">](./build/release/newsera.ipa)
+___
+
+###NOTE: Check `build > release` folder for a prebuild `newsera.ipa` or `newsera.apk` file for testing purpose only if above link is not working.
 # Current features
 1) `Network Change Detection`.
 2) `Search`.
