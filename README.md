@@ -1,6 +1,6 @@
 # Newsera
 
-![alt text](./assets/images/splash_screen.png?raw=true)
+![alt text](./assets/images/home_screen.png?raw=true)
 
 A Flutter App Project which uses NewsApi.org as of api resource.
 
@@ -13,7 +13,7 @@ A Flutter App Project which uses NewsApi.org as of api resource.
 
 # Build
 
-![alt text](./assets/images/home_screen.png?raw=true)
+![alt text](./assets/images/splash_screen.png?raw=true)
 
 1) Run the command from Root folder of the project `flutter build <android|ios> --<debug|profile|release>`.
 e.g. `flutter build ios --release`.
